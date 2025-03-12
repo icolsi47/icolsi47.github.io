@@ -222,6 +222,10 @@
 
   }
 
+  @include breakpoint($medium) {
+    margin: 0; 
+  }
+
 }
 
 .menu-item {
