@@ -58,3 +58,14 @@
     color: inherit;
   }
 }
+
+.site__name {
+  margin: 0;
+  font-family: $global-font-family;
+  font-size: 1.8em;
+}
+
+.site__bio {
+  margin: 0;
+  font-size: 70%;
+}
