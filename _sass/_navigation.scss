@@ -213,6 +213,11 @@
 .site__bio {
   margin: 0;
   font-size: $type-size-1;
+
+  @include breakpoint($small) {
+    margin: 10;
+  }
+
 }
 
 .menu-item {
