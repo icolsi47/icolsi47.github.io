@@ -215,7 +215,8 @@
   font-size: $type-size-1;
 
   @include breakpoint($small) {
-    padding: 10;
+    padding-left: 30%;
+    
   }
 
 }
