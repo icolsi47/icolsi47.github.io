@@ -33,6 +33,7 @@ body {
   font-family: $global-font-family;
   line-height: 1.5;
   color: $text-color;
+  text-align: justify;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
