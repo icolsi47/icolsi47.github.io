@@ -1,15 +1,15 @@
 # main links
 main:
   - title: "Conference Theme"
-    url: #conference-theme-interfaces-in-linguistics
+    url: \#conference-theme-interfaces-in-linguistics
   - title: "Non-Thematic Sessions"
-    url: #non-thematic-sessions
+    url: \#non-thematic-sessions
   - title: "Submission Guidelines"
-    url: #submission-guidelines    
+    url: \#submission-guidelines    
   - title: "Pre-conference Workshop"
-    url: #pre-conference-workshop
+    url: \#pre-conference-workshop
   - title: "Important Dates"
-    url: #important-dates    
+    url: \#important-dates    
   # - title: "Submenu"
   #   url: /
   #   children: 
