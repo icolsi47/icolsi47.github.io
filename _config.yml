@@ -6,7 +6,7 @@ title_separator          : "-"
 description              : "47th International Conference of the Linguistic Society of India"
 favicon                  : "/assets/images/black-swallow.jpeg"
 avatar                   : "/assets/images/black-swallow.jpeg"
-url                      : "https://icolsi47.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://icolsi47.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
 # Site Author
