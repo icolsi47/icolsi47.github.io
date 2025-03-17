@@ -44,8 +44,10 @@ Language Technologies in Archiving and Documentation of Lesser-Studied and Endan
 - Conference Dates: 13th–15th November 2025  
 - Post-conference Excursion: 16th November 2025  
 
-Note: This call for papers is subject to updates. Please refer to the official conference website for the latest information.*
+Note: This call for papers is subject to updates. Please refer to the official conference website for the latest information.
 
+## Contact
+Email: <icolsi47@jadavpuruniversity.in>
 
 
 
