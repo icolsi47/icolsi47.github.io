@@ -9,7 +9,9 @@ main:
   - title: "Pre-conference Workshop"
     url: \#pre-conference-workshop
   - title: "Important Dates"
-    url: \#important-dates    
+    url: \#important-dates
+  - title: "Contact"
+    url: \#contact        
   # - title: "Submenu"
   #   url: /
   #   children: 
