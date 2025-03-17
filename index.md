@@ -6,7 +6,7 @@ comments: false
 **Pre-conference Workshops: 12th November 2025**  
 **Post-conference Excursion: 16th November 2025**
 
-The School of Languages and Linguistics at Jadavpur University, Kolkata, is delighted to announce the 47th International Conference of the Linguistic Society of India (ICOLSI-47), to be held from 13th to 15th November 2025. ICOLSI is the flagship conference of the Linguistic Society of India and is held annually. We invite scholars, researchers, and students to submit their original research papers for presentation at this prestigious event.
+The [School of Languages and Linguistics](https://jadavpuruniversity.in/academics/school-of-languages-and-linguistics/) at [Jadavpur University](https://jadavpuruniversity.in), Kolkata, is delighted to announce the 47th International Conference of the Linguistic Society of India (ICOLSI-47), to be held from 13th to 15th November 2025. ICOLSI is the flagship conference of the [Linguistic Society of India](https://www.lsi.org.in) and is held annually. We invite scholars, researchers, and students to submit their original research papers for presentation at this prestigious event.
 
 ## Conference Theme: Interfaces in Linguistics
 
@@ -20,11 +20,11 @@ In addition to the thematic sessions, the conference will also include non-thema
 
 ### Abstract Submission
 
-Abstracts should be submitted via Microsoft CMT to ensure a transparent and constructive review process. Detailed guidelines for submission will be available on the conference website. To ensure a fair opportunity to everyone, the conference will permit only one first-author submission per participant. Every paper that is accepted for oral or poster presentation would have to have a unique registered author.
+Anonymized abstracts should be submitted to ensure a transparent and constructive review process. Detailed guidelines for submission will be available on the conference website. To ensure a fair opportunity to everyone, the conference will permit only one first-author submission per participant. Every paper that is accepted for oral or poster presentation would have to have a unique registered author.
 
 ### Membership of Linguistic Society of India (LSI)
 
-Membership of the Linguistic Society of India is mandatory for all paper presenters and authors. This includes participation in the pre-conference workshop as well. Visit www.lsi.org.in for further details.
+Membership of the Linguistic Society of India is mandatory for all paper presenters and authors. This includes participation in the pre-conference workshop as well. Visit the [Linguistic Society of India](https://www.lsi.org.in) for further details.
 
 ### Publication Opportunity
 
@@ -37,7 +37,7 @@ Language Technologies in Archiving and Documentation of Lesser-Studied and Endan
 
 ## Important Dates
 
-- Abstract Submission begins: March 15th 2025
+- Abstract Submission begins: April 1st 2025
 - Abstract Submission Deadline: July 15th 2025
 - Notification of Acceptance: September 1st 2025
 - Pre-conference Workshops: 12th November 2025  
