@@ -155,8 +155,8 @@
 .topnav__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 12em;
-  height: 12em;
+  width: 10em;
+  height: 10em;
   
   @include breakpoint(max-width $small) {
     @include full();
@@ -167,7 +167,7 @@
   img {
     height: auto;
     @include breakpoint(max-width $small) {
-      width: 10em;
+      width: 8em;
       display: block;
       margin: 0 auto;
     }
