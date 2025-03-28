@@ -4,8 +4,8 @@ locale                   : "en"
 title                    : "ICOLSI-47"
 title_separator          : "-"
 description              : "47th International Conference of the Linguistic Society of India"
-favicon                  : "/assets/images/black-swallow.jpeg"
-avatar                   : "/assets/images/black-swallow.jpeg"
+favicon                  : "/assets/images/icolsi_47_ju_logo.png"
+avatar                   : "/assets/images/icolsi_47_ju_logo.png"
 url                      : "https://icolsi47.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
