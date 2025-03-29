@@ -158,18 +158,24 @@
   width: 10em;
   height: 10em;
 
+  // @include breakpoint(max-width $small) {
+  //   @include full();
+  //   // display: block; 
+
+  //   width: $max-width;
+  //   height: auto;
+
+  //   align-self: center;
+  //   vertical-align: middle;
+
+  //   align-items: center;
+  
+  //   margin-bottom: 1em;
+  // }
+
   @include breakpoint(max-width $small) {
     @include full();
-    // display: block; 
-
-    width: $max-width;
-    height: auto;
-
-    align-self: center;
-    vertical-align: middle;
-
-    align-items: center;
-  
+    height: inherit;
     margin-bottom: 1em;
   }
 
@@ -177,13 +183,19 @@
     width: 10em;
     height: 10em;
 
-    @include breakpoint(max-width $small) {
-      display: block;
-      width: 10em;
-      height: auto;
+    // @include breakpoint(max-width $small) {
+    //   display: block;
+    //   width: 10em;
+    //   height: auto;
       
-      align-self: center;
-      vertical-align: middle;
+    //   align-self: center;
+    //   vertical-align: middle;
+    // }
+
+    @include breakpoint(max-width $small) {
+      width: 8em;
+      display: block;
+      margin: 0 auto;
     }
 
     @include breakpoint($large) {
