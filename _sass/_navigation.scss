@@ -176,7 +176,7 @@
   @include breakpoint(max-width $small) {
     @include full();
     // height: inherit;
-    margin-bottom: 1em;
+    // margin-bottom: 1em;
   }
 
   img {
@@ -193,7 +193,7 @@
     // }
 
     @include breakpoint(max-width $small) {
-      width: 12em;
+      width: 15em;
       height: auto; 
       display: block;
       margin: 0 auto;
