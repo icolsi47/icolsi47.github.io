@@ -193,7 +193,7 @@
     // }
 
     @include breakpoint(max-width $small) {
-      width: 8em;
+      width: 12em;
       display: block;
       margin: 0 auto;
     }
