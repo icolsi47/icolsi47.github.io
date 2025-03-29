@@ -175,8 +175,7 @@
 
   @include breakpoint(max-width $small) {
     @include full();
-    height: inherit;
-    width: inherit; 
+    // height: inherit;
     margin-bottom: 1em;
   }
 
