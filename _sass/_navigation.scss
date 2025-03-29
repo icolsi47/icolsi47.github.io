@@ -160,14 +160,14 @@
   
   @include breakpoint(max-width $small) {
     @include full();
-    height: inherit;
+    height: auto;
     margin-bottom: 1em;
   }
 
   img {
     height: auto;
     @include breakpoint(max-width $small) {
-      width: 8em;
+      // width: 8em;
       display: block;
       margin: 0 auto;
     }
