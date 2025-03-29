@@ -155,12 +155,12 @@
 .topnav__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 15em;
-  height: 15em;
-  
+  width: 10em;
+  height: 10em;
   @include breakpoint(max-width $small) {
     @include full();
-    height: auto;
+    width: 20em;
+    height: 20em;
     margin-bottom: 1em;
   }
 
@@ -168,8 +168,8 @@
     width: 10em;
     height: 10em;
     @include breakpoint(max-width $small) {
-      width: 14em;
-      height: 14em;
+      width: 18em;
+      height: 18em;
       display: block;
       margin: 0 auto;
     }
