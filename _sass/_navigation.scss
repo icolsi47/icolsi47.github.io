@@ -167,7 +167,7 @@
   img {
     height: auto;
     @include breakpoint(max-width $small) {
-      // width: 8em;
+      width: 6em;
       display: block;
       margin: 0 auto;
     }
