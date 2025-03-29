@@ -160,7 +160,7 @@
 
   @include breakpoint(max-width $small) {
     @include full();
-    display: inline-block; 
+    display: block; 
     width: 20em;
     height: 20em;
 
@@ -177,7 +177,7 @@
     height: 10em;
 
     @include breakpoint(max-width $small) {
-      display: inline-block;
+      display: block;
       width: 18em;
       height: 18em;
       
