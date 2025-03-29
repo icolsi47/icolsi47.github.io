@@ -157,27 +157,34 @@
   vertical-align: top;
   width: 10em;
   height: 10em;
+
   @include breakpoint(max-width $small) {
     @include full();
-    align-self: center;
+    display: inline-block; 
     width: 20em;
     height: 20em;
+
+    align-self: center;
     vertical-align: middle;
+
     align-items: center;
-    text-align: center;
+  
     margin-bottom: 1em;
   }
 
   img {
     width: 10em;
     height: 10em;
+
     @include breakpoint(max-width $small) {
+      display: inline-block;
       width: 18em;
       height: 18em;
-      display: inline;
+      
+      align-self: center;
       vertical-align: middle;
-      text-align: center;
     }
+
     @include breakpoint($large) {
       padding: 5px;
     }
