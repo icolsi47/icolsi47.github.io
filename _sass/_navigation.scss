@@ -174,12 +174,12 @@
   // }
 
   @include breakpoint(max-width $small) {
-    // @include full();
+    @include full();
     // height: inherit;
     // margin-bottom: 1em;
 
-    width: 15em;
-    height: 15em;
+    // width: 15em;
+    // height: 15em;
   }
 
   img {
