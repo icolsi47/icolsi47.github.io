@@ -159,6 +159,7 @@
   height: 10em;
   @include breakpoint(max-width $small) {
     @include full();
+    align-self: center;
     width: 20em;
     height: 20em;
     vertical-align: middle;
