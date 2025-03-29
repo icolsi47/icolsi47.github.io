@@ -47,8 +47,10 @@ Language Technologies in Archiving and Documentation of Lesser-Studied and Endan
 Note: This call for papers is subject to updates. Please refer to the official conference website for the latest information.
 
 ## Contact
-For quesries, questions and comments, please reach out to: <icolsi47@jadavpuruniversity.in>
+For queries, questions and comments, please reach out to: <icolsi47@jadavpuruniversity.in>
 
+![Linguistic Society of India](/assets/images/LSI logo.png)
+![Jadavpur University](/assets/images/JU_logo.png)
 
 
 
