@@ -171,7 +171,8 @@
       width: 18em;
       height: 18em;
       display: block;
-      margin: 0 0;
+      vertical-align: middle;
+      text-align: center;
     }
     @include breakpoint($large) {
       padding: 5px;
