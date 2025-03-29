@@ -161,7 +161,7 @@
   @include breakpoint(max-width $small) {
     @include full();
     display: block; 
-    width: 20em;
+    width: $max-width;
     height: 20em;
 
     align-self: center;
