@@ -6,7 +6,7 @@ comments: false
 **Pre-conference Workshops: 11th November 2025**  
 **Post-conference Excursion: 15th November 2025**
 
-The [School of Languages and Linguistics](https://jadavpuruniversity.in/academics/school-of-languages-and-linguistics/) at [Jadavpur University](https://jadavpuruniversity.in), Kolkata, is delighted to announce the 47th International Conference of the Linguistic Society of India (ICOLSI-47), to be held from 13th to 15th November 2025. ICOLSI is the flagship conference of the [Linguistic Society of India](https://www.lsi.org.in) and is held annually. We invite scholars, researchers, and students to submit their original research papers for presentation at this prestigious event.
+The [School of Languages and Linguistics](https://jadavpuruniversity.in/academics/school-of-languages-and-linguistics/) at [Jadavpur University](https://jadavpuruniversity.in), Kolkata, is delighted to announce the 47th International Conference of the Linguistic Society of India (ICOLSI-47), to be held from 12th to 14th November 2025. ICOLSI is the flagship conference of the [Linguistic Society of India](https://www.lsi.org.in) and is held annually. We invite scholars, researchers, and students to submit their original research papers for presentation at this prestigious event.
 
 ## Conference Theme: Interfaces in Linguistics
 
