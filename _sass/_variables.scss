@@ -30,9 +30,8 @@ $type-size-8                : 0.625em !default;  // ~10px
    Colors
    ========================================================================== */
 
-$red                      : mix(#000, #c0392b, 15%);
 $green                      : mix(#000, #50dd8e, 15%);
-$theme-color                : $red;
+$theme-color                : $green;
 $gray                       : #7a8288 !default;
 
 $body-color                 : #fff !default;
@@ -63,7 +62,7 @@ $large                      : 1024px !default;
 $x-large                    : 1280px !default;
 $x-x-large                  : 1440px !default;
 
-$max-width                  : 768px !default;
+$max-width                  : $medium-wide !default;
 
 // $max-width                  : 625px !default;
 
