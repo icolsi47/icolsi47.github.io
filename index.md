@@ -37,7 +37,7 @@ Language Technologies in Archiving and Documentation of Lesser-Studied and Endan
 
 ## Important Dates
 
-- Abstract Submission begins: April 15th 2025
+- Abstract Submission begins: May 15th 2025
 - Abstract Submission Deadline: July 15th 2025
 - Notification of Acceptance: September 1st 2025
 - Pre-conference Workshops: 11th November 2025  
