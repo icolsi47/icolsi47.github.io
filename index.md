@@ -62,7 +62,7 @@ For queries, questions and comments, please reach out to: <icolsi47@jadavpuruniv
 | Krzysztof Stronski         | Mahidas Bhattacharya         | Mina Dan                      |
 | Pabitra Sarkar             | Pramod Pandey                | Probal Dasgupta               |
 | Shailendra Mohan     | R. Amritavalli               | Shyamsundar Bhattacharya     |
-| Udaya Kumar Chakrabory     | Udaya Narayan Singh          |                               |
+| Udaya Kumar Chakrabory     | Udaya Narayan Singh          |       M J Warsi                        |
 
 
 ## Local Organizing Committee
