@@ -11,7 +11,9 @@ main:
   - title: "Important Dates"
     url: \#important-dates
   - title: "Contact"
-    url: \#contact        
+    url: \#contact     
+  - title: "Advisory Committee"
+    url: \#advisory-committee     
   # - title: "Submenu"
   #   url: /
   #   children: 
