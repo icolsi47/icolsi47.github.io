@@ -51,10 +51,26 @@ Note: This call for papers is subject to updates. Please refer to the official c
 ## Contact
 For queries, questions and comments, please reach out to: <icolsi47@jadavpuruniversity.in>
 
+## Advisory Committee
+
+| Column 1                    | Column 2                     | Column 3                      |
+|----------------------------|------------------------------|-------------------------------|
+| Abhijit Majumder           | Achla M. Raina               | Aditi Lahiri                  |
+| Anupam Basu                | Anvita Abbi                  | Awadhesh K Mishra             |
+| B.N. Pattanayak            | Chungkham Yashawanta Singh   | Director, Bharatiya Bhasha Sangsthan |
+| Director, ILSR             | Gautam Sengupta              | Krishna Bhattacharya         |
+| Krzysztof Stronski         | Mahidas Bhattacharya         | Mina Dan                      |
+| Pabitra Sarkar             | Pramod Pandey                | Probal Dasgupta               |
+| Shailendra Mohan     | R. Amritavalli               | Shyamsundar Bhattacharya     |
+| Udaya Kumar Chakrabory     | Udaya Narayan Singh          |                               |
+
+
 ## Local Organizing Committee
 - Indranil Dutta
 - Samir Karmakar
 - Atanu Saha
+
+
 
 ![Linguistic Society of India](/assets/images/LSI logo.png)
 ![Jadavpur University](/assets/images/JU_logo.png)
