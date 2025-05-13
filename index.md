@@ -20,7 +20,9 @@ In addition to the thematic sessions, the conference will also include non-thema
 
 ### Abstract Submission
 
-Anonymized abstracts should be submitted to ensure a transparent and constructive review process. Detailed guidelines for submission will be available on the conference website. To ensure a fair opportunity to everyone, the conference will permit only one first-author submission per participant. Every paper that is accepted for oral or poster presentation would have to have a unique registered author.
+Anonymized abstracts should be submitted through [EasyAbs](https://easyabs.linguistlist.org/submit/ICOLSI-47/) to ensure a transparent and constructive review process. Detailed guidelines for submission will be available on the conference website. To ensure a fair opportunity to everyone, the conference will permit only one first-author submission per participant. Every paper that is accepted for oral or poster presentation would have to have a unique registered author.
+
+Abstract template can be downloaded from [here](ICOLSI-47-CfP.docx).
 
 ### Membership of Linguistic Society of India (LSI)
 
@@ -48,6 +50,11 @@ Note: This call for papers is subject to updates. Please refer to the official c
 
 ## Contact
 For queries, questions and comments, please reach out to: <icolsi47@jadavpuruniversity.in>
+
+## Local Organizing Committee
+- Indranil Dutta
+- Samir Karmakar
+- Atanu Saha
 
 ![Linguistic Society of India](/assets/images/LSI logo.png)
 ![Jadavpur University](/assets/images/JU_logo.png)
