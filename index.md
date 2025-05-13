@@ -71,11 +71,9 @@ For queries, questions and comments, please reach out to: <icolsi47@jadavpuruniv
 - Atanu Saha
 
 
-<p style="text-align: center;">  
 ![Linguistic Society of India](/assets/images/LSI logo.png)
 ![Jadavpur University](/assets/images/JU_logo.png)
 ![Central Institute of Indian Languages](/assets/images/ciil.png)
 
-</p> 
 
 
