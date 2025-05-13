@@ -53,7 +53,7 @@ For queries, questions and comments, please reach out to: <icolsi47@jadavpuruniv
 
 ## Advisory Committee
 
-| Column 1                    | Column 2                     | Column 3                      |
+| Member               | Member                     | Member                    |
 |----------------------------|------------------------------|-------------------------------|
 | Abhijit Majumder           | Achla M. Raina               | Aditi Lahiri                  |
 | Anupam Basu                | Anvita Abbi                  | Awadhesh K Mishra             |
