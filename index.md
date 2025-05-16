@@ -59,10 +59,11 @@ For queries, questions and comments, please reach out to: <icolsi47@jadavpuruniv
 | Krishna Bhattacharya      | Mahidas Bhattacharya       | Shyamsundar Bhattacharya       |
 | Udaya Kumar Chakrabory    | Mina Dan                   | Probal Dasgupta                |
 | Director, Bharatiya Bhasha Sangsthan | Director, ILSR          | Aditi Lahiri                   |
-| Awadhesh K Mishra         | Shailendra Mohan           | B.N. Pattanayak                |
-| Pramod Pandey             | Achla M. Raina             | Pabitra Sarkar                 |
-| Gautam Sengupta           | Chungkham Yashawanta Singh | Udaya Narayan Singh            |
-| Krzysztof Stronski        | K.V. Subbarao              | M J Warsi                      |
+| Awadhesh K Mishra         | Abhinav K Mishra  | Shailendra Mohan           | 
+| B.N. Pattanayak              | Pramod Pandey             | Achla M. Raina             | 
+|Pabitra Sarkar                | Gautam Sengupta           | Chungkham Yashawanta Singh | 
+| Udaya Narayan Singh            | Krzysztof Stronski        | K.V. Subbarao              |
+| M J Warsi                      |
 
 ## Local Organizing Committee
 - Indranil Dutta
