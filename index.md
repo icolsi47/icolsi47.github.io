@@ -53,17 +53,15 @@ For queries, questions and comments, please reach out to: <icolsi47@jadavpuruniv
 
 ## Advisory Committee
 
-| Member                     | Member                     | Member                         |
-|---------------------------|----------------------------|--------------------------------|
-| Anvita Abbi               | R. Amritavalli             | Anupam Basu                    |
-| Krishna Bhattacharya      | Mahidas Bhattacharya       | Shyamsundar Bhattacharya       |
-| Udaya Kumar Chakrabory    | Mina Dan                   | Probal Dasgupta                |
-| Director, Bharatiya Bhasha Sangsthan | Director, ILSR          | Aditi Lahiri                   |
-| Awadhesh K Mishra         | Abhinav K Mishra  | Shailendra Mohan           | 
-| B.N. Pattanayak              | Pramod Pandey             | Achla M. Raina             | 
-|Pabitra Sarkar                | Gautam Sengupta           | Chungkham Yashawanta Singh | 
-| Udaya Narayan Singh            | Krzysztof Stronski        | K.V. Subbarao              |
-| M J Warsi                      |
+| Member                     | Member                     | Member                         |  Member |
+|---------------------------|----------------------------|--------------------------------|--------------------------------|
+| Anvita Abbi               | R. Amritavalli             | Anupam Basu                    | Krishna Bhattacharya |
+|  Mahidas Bhattacharya     | Shyamsundar Bhattacharya   | Udaya Kumar Chakraborty | Mina Dan  |
+|  Probal Dasgupta   |    Director, Bharatiya Bhasha Sangsthan     |     Director, ILSR          | Girish Nath Jha |
+| Aditi Lahiri  | Awadhesh K Mishra |     Abhinav K Mishra, Secretary, LSI     |     R C Mishra | |Shailendra Mohan, Director, CIIL     |  B.N. Pattanayak |   Pramod Pandey   | 
+Achla M. Raina  |  Pabitra Sarkar    |  Sobha Satyanath   |     Aejaz M Sheikh      |     Sunandan Kumar Sen     |  Gautam Sengupta        | Chungkham Yashawanta Singh | 
+| Udaya Narayan Singh            |  Krzysztof Stronski    | K.V. Subbarao       |  Thiruvalluvan V, Vice-President, LSI | 
+| M J Warsi, President, LSI |  | | |
 
 ## Local Organizing Committee
 - Indranil Dutta
