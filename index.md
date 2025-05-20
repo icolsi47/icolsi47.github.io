@@ -34,7 +34,7 @@ Selected papers presented at ICOLSI-47 will undergo a double-blind peer review p
 
 ## Pre-conference Workshop
 
-To encourage broader participation and skill development, a pre-conference workshops will be held on 12th November 2025:
+To encourage broader participation and skill development, a pre-conference workshops will be held on 11th November 2025:
 Language Technologies in Archiving and Documentation of Lesser-Studied and Endangered Languages: This workshop will introduce participants to cutting-edge tools and techniques for language documentation, including the development of lexicons, pronunciation dictionaries, and automated speech and text annotations.
 
 ## Important Dates
