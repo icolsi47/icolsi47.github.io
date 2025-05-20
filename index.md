@@ -54,7 +54,7 @@ For queries, questions and comments, please reach out to: <icolsi47@jadavpuruniv
 ## Advisory Committee
 
 | Member                                   | Member                                   | Member                                     | Member                                   |
-|------------------------------------------|------------------------------------------|--------------------------------------------|------------------------------------------|
+| :------------------------------------------| :------------------------------------------| :--------------------------------------------| :------------------------------------------|
 | Anvita Abbi                              | R. Amritavalli                           | Anupam Basu                                | Krishna Bhattacharya                     |
 | Mahidas Bhattacharya                     | Shyamsundar Bhattacharya                 | Udaya Kumar Chakraborty                    | Mina Dan                                 |
 | Probal Dasgupta                          | Director, Bharatiya Bhasha Sangsthan     | Director, ILSR                             | Girish Nath Jha                          |
