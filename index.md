@@ -56,7 +56,7 @@ For queries, questions and comments, please reach out to: <icolsi47@jadavpuruniv
 | Member                                   | Member                                   | Member                                     | Member                                   |
 | :-------------------------------------- | :-------------------------------------- | :---------------------------------------- | :-------------------------------------- |
 | Anvita Abbi                             | R. Amritavalli                           | Anupam Basu                                | Krishna Bhattacharya                     |
-| Mahidas Bhattacharya                    | Shyamsundar Bhattacharya                 | Udaya Kumar Chakraborty                    | Mina Dan                                 |
+| Mahidas Bhattacharya                    |  Shyamsundar Bhattacharya                 | Udaya Kumar Chakraborty                    | Mina Dan                                 |
 | Probal Dasgupta                         |     Director, ILSR                             | Girish Nath Jha                |       Aditi Lahiri     |                     
 | Abhinav K Mishra, Secretary, LSI         | Awadhesh K Mishra                          | Shailendra Mohan, Director, CIIL         |
 |B.N. Pattanayak                         | Pramod Pandey                            | Achla M. Raina                             | Pabitra Sarkar                           |
@@ -66,6 +66,7 @@ For queries, questions and comments, please reach out to: <icolsi47@jadavpuruniv
 
 
 ## Local Organizing Committee
+
 - Indranil Dutta
 - Samir Karmakar
 - Atanu Saha
