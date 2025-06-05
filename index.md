@@ -57,7 +57,7 @@ For queries, questions and comments, please reach out to: <icolsi47@jadavpuruniv
 | :-------------------------------------- | :-------------------------------------- | :---------------------------------------- | :-------------------------------------- |
 | Anvita Abbi                             | R. Amritavalli                           | Anupam Basu                                | Krishna Bhattacharya                     |
 | Mahidas Bhattacharya                    | Shyamsundar Bhattacharya                | Udaya Kumar Chakraborty                    | Mina Dan                                 |
-| Probal Dasgupta                         | Director, ILSR                          | Girish Nath Jha                            | Aditi Lahiri                             |
+| Probal Dasgupta                         | Director, ILSR                          | Girish Nath Jha                            |      Aditi Lahiri                 |
 | Abhinav K Mishra, Secretary, LSI        | Awadhesh K Mishra                        | Shailendra Mohan, Director, CIIL           |                                          |
 | B.N. Pattanayak                         | Pramod Pandey                           | Achla M. Raina                             | Pabitra Sarkar                           |
 | Sobha Satyanath                         | R. C. Sharma                            | Aejaz M. Sheikh                            | Sunandan Kumar Sen                       |
@@ -73,7 +73,7 @@ For queries, questions and comments, please reach out to: <icolsi47@jadavpuruniv
 - Atanu Saha
 
 
-![Linguistic Society of India](/assets/images/LSI logo.png)
+![Linguistic Society of India](/assets/images/LSI_logo.png)
 ![Jadavpur University](/assets/images/JU_logo.png)
 ![Central Institute of Indian Languages](/assets/images/ciil.png)
 
