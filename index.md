@@ -30,7 +30,7 @@ Membership of the Linguistic Society of India is mandatory for all paper present
 
 ### Publication Opportunity
 
-Selected papers presented at ICOLSI-47 will undergo a double-blind peer review process and will be published in the Jadavpur Journal of Languages and Linguistics, a UGC-CARE listed journal.
+Selected papers presented at ICOLSI-47 will undergo a double-blind peer review process and will be published in the [Jadavpur Journal of Languages and Linguistics](https://sites.google.com/jadavpuruniversity.in/jjll-sll-ju/home), a UGC-CARE listed journal.
 
 ## Pre-conference Workshop
 
