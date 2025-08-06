@@ -1,5 +1,4 @@
 ---
-layout: post
 comments: false
 ---
 ## CRAFT: Community based Research and Archiving in Field Techniques
