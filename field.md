@@ -1,8 +1,7 @@
 ---
-title: 
+title: Fundamentals in Informed Elicitation and Language Documentation (FIELD)
 comments: false
 ---
-## Fundamentals in Informed Elicitation and Language Documentation (FIELD)
 
 - Date: **11th November 2025**
 - Time: **10:30 am-5:30 pm**
