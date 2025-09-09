@@ -4,10 +4,10 @@ comments: false
 ---
 # Fundamentals in Informed Elicitation and Language Documentation
 
-Date: **11th November 2025**
-Time: **10:30 am-5:30 pm**
-Venue: School of Languages and Linguistics, Jadavpur University
-Number of Participants: 30
+- Date: **11th November 2025**
+- Time: **10:30 am-5:30 pm**
+- Venue: School of Languages and Linguistics, Jadavpur University
+- Number of Participants: 30
 
 ## Resource persons
 - Dr. Vijay D'Souza, Director, [North Eastern Institute of Language and Culture](https://www.neilac.org.in)
@@ -27,13 +27,6 @@ approaches.
 
 ## Key Features in a nutshell
 The workshop will focus on practical demonstrations on data collection, transcription, and annotation. Hands-on training using actual linguistic software tools will be given to the participants. We will also keep a session on ethical issues in working with human subjects and indigenous communities. This workshop is likely to witness some resource sharing including manuals, reading lists, and sample templates for informed consent and metadata documentation.
-<!-- 
-- Increased capacity among participants to initiate or contribute to language documentation
-projects.
-- Awareness of ethical, practical, and technological aspects of language work in
-multilingual contexts.
-- A strengthened network of young linguists and community workers engaged in
-preserving India’s linguistic heritage. -->
 
 ## Registration and expression of interest
 Interested participants may fill out this form to show their interest to join the workshop latest by 30th September 2025.
