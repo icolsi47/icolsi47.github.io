@@ -13,7 +13,7 @@ The School of Languages and Linguistics at Jadavpur University, Kolkata, is deli
 | 4     | Foreign Delegates  | $300 USD             |
 
 
-Registration fee includes conference kit, lunch and tea coupons. Conference Registration fee is obligatory for all participants and should be sent in advance. We regret that we will not be able to accept late registrations. The last date for registration is 22nd October 2025.
+Registration fee includes conference kit, lunch and tea coupons. Conference Registration fee is obligatory for all participants and should be sent in advance. We regret that we will not be able to accept late registrations. **The last date for registration is 22nd October 2025.**
 
 Bank Account Details:
 - Account Name: ICOLSI47
