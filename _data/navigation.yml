@@ -7,13 +7,15 @@ main:
   - title: "Submission Guidelines"
     url: \#submission-guidelines    
   - title: "Pre-conference Workshop"
-    url: \#pre-conference-workshop
+    url: \field
   - title: "Important Dates"
     url: \#important-dates
   - title: "Contact"
     url: \#contact     
   - title: "Advisory Committee"
-    url: \#advisory-committee     
+    url: \#advisory-committee 
+  - title: "Registration"
+    url: \registration  
   # - title: "Submenu"
   #   url: /
   #   children: 

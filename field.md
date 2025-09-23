@@ -28,7 +28,7 @@ approaches.
 The workshop will focus on practical demonstrations on data collection, transcription, and annotation. Hands-on training using actual linguistic software tools will be given to the participants. We will also keep a session on ethical issues in working with human subjects and indigenous communities. This workshop is likely to witness some resource sharing including manuals, reading lists, and sample templates for informed consent and metadata documentation.
 
 ## Registration and expression of interest
-Interested participants may fill out this form to show their interest to join the workshop latest by 30th September 2025.
+Interested participants may fill out [this form](https://forms.gle/GEDiW4M8unSWd9WK9) to show their interest to join the workshop latest by 30th September 2025.
 
 ![Linguistic Society of India](/assets/images/LSI_logo.png)
 ![Jadavpur University](/assets/images/JU_logo.png)
