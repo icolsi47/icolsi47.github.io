@@ -25,7 +25,7 @@ Bank Account Details:
 - IFSC Code: SBIN0000093
 - Swift no: SBININBB328 (For Foreign Nationals)
 
-2. Fill out the [registration form] to complete the process.
+2. Fill out the [registration form](https://forms.gle/CS3jtWf4ChuEnT6q7) to complete the process.
 
 For queries, questions and comments, please reach out to: <icolsi47@jadavpuruniversity.in>
 
