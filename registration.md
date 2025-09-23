@@ -15,6 +15,9 @@ The School of Languages and Linguistics at Jadavpur University, Kolkata, is deli
 
 Registration fee includes conference kit, lunch and tea coupons. Conference Registration fee is obligatory for all participants and should be sent in advance. We regret that we will not be able to accept late registrations. **The last date for registration is 22nd October 2025.**
 
+Registration consists of a two-step process:
+
+1. Transferring the requisite registration fee to the conference bank account. Details below:
 Bank Account Details:
 - Account Name: ICOLSI47
 - A/C no: 44491582229
@@ -22,6 +25,11 @@ Bank Account Details:
 - IFSC Code: SBIN0000093
 - Swift no: SBININBB328 (For Foreign Nationals)
 
+2. Fill out the [registration form] to complete the process.
+
+For queries, questions and comments, please reach out to: <icolsi47@jadavpuruniversity.in>
+
+We look forward to welcoming you all to Kolkata in November!
 
 ![Linguistic Society of India](/assets/images/LSI_logo.png)
 ![Jadavpur University](/assets/images/JU_logo.png)
