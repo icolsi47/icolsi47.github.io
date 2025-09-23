@@ -16,11 +16,11 @@ The School of Languages and Linguistics at Jadavpur University, Kolkata, is deli
 Registration fee includes conference kit, lunch and tea coupons. Conference Registration fee is obligatory for all participants and should be sent in advance. We regret that we will not be able to accept late registrations. The last date for registration is 22nd October 2025.
 
 Bank Account Details:
-Account Name: ICOLSI47
-A/C no: 44491582229
-Branch: SBI Jadavpur University Branch
-IFSC Code: SBIN0000093
-Swift no: SBININBB328( For Foreign Nationals)
+- Account Name: ICOLSI47
+- A/C no: 44491582229
+- Branch: SBI Jadavpur University Branch
+- IFSC Code: SBIN0000093
+- Swift no: SBININBB328 (For Foreign Nationals)
 
 
 ![Linguistic Society of India](/assets/images/LSI_logo.png)
