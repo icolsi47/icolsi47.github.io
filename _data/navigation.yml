@@ -1,21 +1,17 @@
 # main links
 main:
-  - title: "Conference Theme"
-    url: \#conference-theme-interfaces-in-linguistics
-  - title: "Non-Thematic Sessions"
-    url: \#non-thematic-sessions
   - title: "Submission Guidelines"
     url: \#submission-guidelines    
   - title: "Pre-conference Workshop"
     url: \field
+  - title: "Invited lectures"
+    url: \invited
+  - title: "Registration"
+    url: \registration  
   - title: "Important Dates"
     url: \#important-dates
   - title: "Contact"
     url: \#contact     
-  - title: "Advisory Committee"
-    url: \#advisory-committee 
-  - title: "Registration"
-    url: \registration  
   # - title: "Submenu"
   #   url: /
   #   children: 
