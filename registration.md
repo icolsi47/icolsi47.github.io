@@ -19,7 +19,7 @@ Registration consists of a two-step process:
 
 1. Transferring the requisite registration fee to the conference bank account. Details below:
 Bank Account Details:
-- Account Name: ICOLSI47
+- Account Name: ICOLSI
 - A/C no: 44491582229
 - Branch: SBI Jadavpur University Branch
 - IFSC Code: SBIN0000093
