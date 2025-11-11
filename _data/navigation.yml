@@ -5,6 +5,8 @@ main:
   - title: "Pre-conference Workshop"
     url: \field
   - title: "Invited lectures"
+    url: \final_sched.pdf
+  - title: "Program"
     url: \invited
   - title: "Registration"
     url: \registration  
